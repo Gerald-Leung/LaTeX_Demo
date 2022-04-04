@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{\texttt {GeoPandas}}{3}{0}{2}
+\beamer@sectionintoc {3}{Data}{4}{0}{3}
+\beamer@sectionintoc {4}{Results}{14}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{18}{0}{5}

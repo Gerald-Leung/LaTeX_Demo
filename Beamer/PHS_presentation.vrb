@@ -1,0 +1,17 @@
+\frametitle{Merging Geographies}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{itemize}
+\item{We are interested in the overall boundaries of the GPs}
+\item{Need to merge the individual postcode districts and sectors of a GP}
+\item{We can dissolve the boundaries and merge the geographies}
+\end{itemize}
+\end{column}
+
+\begin{column}{0.6\textwidth}
+For undissolved \texttt{GeoDataFrame uGDF}, we can simply dissolve the geographies by grouping and merging the \texttt{Practice Code} column:
+\begin{lstlisting}[language=Python,frame=single]
+dissolved = uGDF.dissolve(by="Practice Code")
+\end{lstlisting}
+\end{column}
+\end{columns}

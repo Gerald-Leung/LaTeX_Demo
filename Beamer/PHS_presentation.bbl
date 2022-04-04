@@ -1,0 +1,18 @@
+\begin{thebibliography}{}
+\providecommand\natexlab[1]{#1}
+\providecommand\JournalTitle[1]{#1}
+
+\bibitem[{Jordahl {et~al.}(2020)Jordahl, den Bossche, Fleischmann, Wasserman,
+  McBride, Gerard, Tratner, Perry, Badaracco, Farmer, Hjelle, Snow, Cochran,
+  Gillies, Culbertson, Bartos, Eubank, maxalbert, Bilogur, Rey, Ren,
+  Arribas-Bel, Wasser, Wolf, Journois, Wilson, Greenhall, Holdgraf, Filipe, \&
+  Leblanc}]{kelsey_jordahl_2020_3946761}
+Jordahl, K., den Bossche, J.~V., Fleischmann, M., {et~al.}
+  \href{http://dx.doi.org/10.5281/zenodo.3946761}{2020}
+
+\bibitem[{Reback {et~al.}(2020)Reback, McKinney, jbrockmendel, den Bossche,
+  Augspurger, Cloud, gfyoung, Sinhrks, Klein, Roeschke, \& et~al.}]{pandas}
+Reback, J., McKinney, W., jbrockmendel, {et~al.}
+  \href{http://dx.doi.org/10.5281/zenodo.3715232}{2020}
+
+\end{thebibliography}
