@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.22)  28 MAR 2022 15:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.2.22)  11 APR 2022 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1266,32 +1266,32 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (PHS_presentation.aux)
 \openout1 = `PHS_presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 195.
-LaTeX Font Info:    ... okay on input line 195.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 195.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 197.
+LaTeX Font Info:    ... okay on input line 197.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 197.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 19
-5.
+7.
 
 (C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 195.
+LaTeX Font Info:    ... okay on input line 197.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1353,7 +1353,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 195.
+Package hyperref Info: Link coloring ON on input line 197.
 
 (C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1368,9 +1368,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count416
 )
-LaTeX Info: Redefining \ref on input line 195.
-LaTeX Info: Redefining \pageref on input line 195.
-LaTeX Info: Redefining \nameref on input line 195.
+LaTeX Info: Redefining \ref on input line 197.
+LaTeX Info: Redefining \pageref on input line 197.
+LaTeX Info: Redefining \nameref on input line 197.
  (PHS_presentation.out) (PHS_presentation.out)
 \@outlinefile=\write5
 \openout5 = `PHS_presentation.out'.
@@ -1411,7 +1411,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 195.
+or `english'. on input line 197.
 
 (C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.st
 y
@@ -1433,94 +1433,172 @@ Package: ragged2e 2021/02/05 v3.0 ragged2e Package
 )
 \c@lstlisting=\count417
  (PHS_presentation.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 205
+LaTeX Font Info:    Trying to load font information for U+msa on input line 197
 .
 
 (C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 205
+LaTeX Font Info:    Trying to load font information for U+msb on input line 197
 .
 
 (C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<PHS logo positive.png, id=61, 2068.72874pt x 746.79pt>
+<PHS logo positive.png, id=64, 2068.72874pt x 746.79pt>
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 205.
-(pdftex.def)             Requested size: 113.76465pt x 41.06787pt.
+Package pdftex.def Info: PHS logo positive.png  used on input line 207.
+(pdftex.def)             Requested size: 103.44249pt x 37.34167pt.
 
 [1{C:/Users/yeehil01/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
  <./PHS logo positive.png>]
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 224.
+Package pdftex.def Info: PHS logo positive.png  used on input line 226.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [2
 
 ]
+<latex-logo.png, id=165, 1927.2pt x 731.73375pt>
+File: latex-logo.png Graphic file (type png)
+<use latex-logo.png>
+Package pdftex.def Info: latex-logo.png  used on input line 242.
+(pdftex.def)             Requested size: 115.62701pt x 43.90213pt.
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 240.
+Package pdftex.def Info: PHS logo positive.png  used on input line 242.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [3
 
-]
+ <./latex-logo.png>]
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 253.
+Package pdftex.def Info: PHS logo positive.png  used on input line 252.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [4
 
 ]
-<districtcolumns.png, id=219, 589.70313pt x 151.56625pt>
-File: districtcolumns.png Graphic file (type png)
-<use districtcolumns.png>
-Package pdftex.def Info: districtcolumns.png  used on input line 263.
-(pdftex.def)             Requested size: 294.85083pt x 75.78293pt.
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 263.
+Package pdftex.def Info: PHS logo positive.png  used on input line 261.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [5
 
- <./districtcolumns.png>]
+]
+\openout4 = `PHS_presentation.vrb'.
+
+ (PHS_presentation.vrb
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.st
+y
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.st
+y
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.st
+y
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.st
+y
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.st
+y
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.st
+y
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.st
+y
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang2.st
+y
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang3.st
+y
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:\Users\yeehil01\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+))
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 275.
+Package pdftex.def Info: PHS logo positive.png  used on input line 276.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [6
 
 ]
+\openout4 = `PHS_presentation.vrb'.
+
+ (PHS_presentation.vrb)
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 284.
+Package pdftex.def Info: PHS logo positive.png  used on input line 293.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [7
 
 ]
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 294.
+Package pdftex.def Info: PHS logo positive.png  used on input line 306.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [8
 
 ]
+<districtcolumns.png, id=366, 589.70313pt x 151.56625pt>
+File: districtcolumns.png Graphic file (type png)
+<use districtcolumns.png>
+Package pdftex.def Info: districtcolumns.png  used on input line 316.
+(pdftex.def)             Requested size: 294.85083pt x 75.78293pt.
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 317.
+Package pdftex.def Info: PHS logo positive.png  used on input line 316.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [9
+
+ <./districtcolumns.png>]
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 328.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [10
 
 ]
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 344.
+Package pdftex.def Info: PHS logo positive.png  used on input line 337.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [11
+
+]
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 347.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
 
-[10
+[12
+
+]
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 370.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [13
+
+]
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 397.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [14
 
 ]
 \openout4 = `PHS_presentation.vrb'.
@@ -1532,48 +1610,11 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 ))
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 355.
+Package pdftex.def Info: PHS logo positive.png  used on input line 408.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [11
+ [15
 
 ]
-\openout4 = `PHS_presentation.vrb'.
-
- (PHS_presentation.vrb)
-File: PHS logo positive.png Graphic file (type png)
-<use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 365.
-(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [12
-
-]
-\openout4 = `PHS_presentation.vrb'.
-
- (PHS_presentation.vrb)
-File: PHS logo positive.png Graphic file (type png)
-<use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 376.
-(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [13
-
-]
-<geography_test.pdf, id=485, 388.29655pt x 250.57834pt>
-File: geography_test.pdf Graphic file (type pdf)
-<use geography_test.pdf>
-Package pdftex.def Info: geography_test.pdf  used on input line 399.
-(pdftex.def)             Requested size: 194.1478pt x 125.28885pt.
-
-Overfull \hbox (4.55153pt too wide) detected at line 399
-[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
- []
-
-File: PHS logo positive.png Graphic file (type png)
-<use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 399.
-(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
-[14
-
- <./geography_test.pdf>]
 \openout4 = `PHS_presentation.vrb'.
 
  (PHS_presentation.vrb)
@@ -1581,52 +1622,70 @@ File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
 Package pdftex.def Info: PHS logo positive.png  used on input line 418.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [15
-
-]
-<geography_dissolved.pdf, id=555, 381.85149pt x 250.57834pt>
-File: geography_dissolved.pdf Graphic file (type pdf)
-<use geography_dissolved.pdf>
-Package pdftex.def Info: geography_dissolved.pdf  used on input line 428.
-(pdftex.def)             Requested size: 229.11264pt x 150.34814pt.
-File: PHS logo positive.png Graphic file (type png)
-<use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 428.
-(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
  [16
 
- <./geography_dissolved.pdf>]
+]
+\openout4 = `PHS_presentation.vrb'.
 
-pdfTeX warning: pdflatex (file ./Map.pdf): PDF inclusion: found PDF version <1.
-7>, but at most version <1.5> allowed
-<Map.pdf, id=592, 1097.09875pt x 661.47125pt>
-File: Map.pdf Graphic file (type pdf)
-<use Map.pdf>
-Package pdftex.def Info: Map.pdf  used on input line 438.
-(pdftex.def)             Requested size: 252.32741pt x 152.13518pt.
+ (PHS_presentation.vrb)
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 429.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [17
 
-Overfull \vbox (0.14864pt too high) detected at line 438
+]
+<geography_test.pdf, id=658, 388.29655pt x 250.57834pt>
+File: geography_test.pdf Graphic file (type pdf)
+<use geography_test.pdf>
+Package pdftex.def Info: geography_test.pdf  used on input line 452.
+(pdftex.def)             Requested size: 194.1478pt x 125.28885pt.
+
+Overfull \hbox (4.55153pt too wide) detected at line 452
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
  []
 
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 438.
+Package pdftex.def Info: PHS logo positive.png  used on input line 452.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
-[17
+[18
 
- <./Map.pdf>]
+ <./geography_test.pdf>]
+\openout4 = `PHS_presentation.vrb'.
+
+ (PHS_presentation.vrb)
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 456.
+Package pdftex.def Info: PHS logo positive.png  used on input line 471.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [18
+ [19
+
+]
+<geography_dissolved.pdf, id=735, 381.85149pt x 250.57834pt>
+File: geography_dissolved.pdf Graphic file (type pdf)
+<use geography_dissolved.pdf>
+Package pdftex.def Info: geography_dissolved.pdf  used on input line 481.
+(pdftex.def)             Requested size: 229.11264pt x 150.34814pt.
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 481.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [20
+
+ <./geography_dissolved.pdf>]
+File: PHS logo positive.png Graphic file (type png)
+<use PHS logo positive.png>
+Package pdftex.def Info: PHS logo positive.png  used on input line 510.
+(pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
+ [21
 
 ] (PHS_presentation.bbl)
 File: PHS logo positive.png Graphic file (type png)
 <use PHS logo positive.png>
-Package pdftex.def Info: PHS logo positive.png  used on input line 474.
+Package pdftex.def Info: PHS logo positive.png  used on input line 528.
 (pdftex.def)             Requested size: 62.05917pt x 22.40273pt.
- [19
+ [22
 
 ]
 \tf@nav=\write6
@@ -1640,33 +1699,34 @@ Package pdftex.def Info: PHS logo positive.png  used on input line 474.
 
  (PHS_presentation.aux)
 Package rerunfilecheck Info: File `PHS_presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 47A6D2D4743DE689DB9F43E7B9740324;518.
+(rerunfilecheck)             Checksum: B255DBF7746AD607EEFE28A805245FBF;536.
  ) 
 Here is how much of TeX's memory you used:
- 41323 strings out of 478659
- 857284 string characters out of 2844498
- 1391734 words of memory out of 3000000
- 58656 multiletter control sequences out of 15000+600000
- 413077 words of font info for 65 fonts, out of 8000000 for 9000
+ 42278 strings out of 478659
+ 870984 string characters out of 2844498
+ 1413228 words of memory out of 3000000
+ 59580 multiletter control sequences out of 15000+600000
+ 414307 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,122p,2581b,1698s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,19n,132p,2581b,2165s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmbx8.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmcsc10.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/yeehil01/AppData/Local/Programs/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/yeehil01/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/yeehil01/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/y
-eehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb
-><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmtt10.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/yeehil01/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/yeehil01/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on PHS_presentation.pdf (19 pages, 1392488 bytes).
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/yeehil01/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/y
+eehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr8.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmss10.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb><C:/Users/yeehil01/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/yeehil01/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users/yeehil01/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on PHS_presentation.pdf (22 pages, 631917 bytes).
 PDF statistics:
- 795 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 905 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
  132 words of extra memory for PDF output out of 10000 (max. 10000000)
 

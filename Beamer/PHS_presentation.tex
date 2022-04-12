@@ -76,6 +76,7 @@
 \usetikzlibrary{arrows,positioning}
 \usepackage{xcolor}
 \usepackage{listings}
+%\usepackage[clean]{svg}
 
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -179,15 +180,16 @@
 
 \beamertemplatenavigationsymbolsempty
 
-\title[Hierarchical Geography]
-{Hierarchical Geography with \Python}
-\subtitle{A Very Brief Introduction}
+\title[\LaTeX ~Demo]
+{The SIR Model}
+\subtitle{A Brief Demonstration of \LaTeX ~Through An Introduction to Disease Modelling}
 \author[Gerald Leung]{Gerald Leung\inst{1}} %\\ Supervisor: Ik Siong Heng\inst{1}}
-\institute[PHS Geospatial]{\inst{1}Public Health Scotland\\
+\institute[PHS Geospatial Team]{\inst{1}Public Health Scotland\\
 \texttt{gerald.leung@phs.scot}}%{\inst{1}School of Physics and Astronomy,\\ University of Glasgow}
 \date[\today]{\today}
+\vspace{-1cm}
+\titlegraphic{\includegraphics[scale=0.05]{PHS logo positive}}
 \logo{\includegraphics[scale=0.03]{PHS logo positive}}
-\titlegraphic{\includegraphics[scale=0.055]{PHS logo positive}}
 
 
 %\logo{\includegraphics[scale=0.8]{SchPhyAst_colour.png}}
@@ -209,34 +211,85 @@
 
 \section{Introduction}
 
-\begin{frame}{Background}
+\begin{frame}{Introduction}
 \begin{itemize}
-\item{We use GP boundaries as an example}
+\item{The purpose of this presentation is to demonstrate briefly the use of \LaTeX}
+\item{We go through the basics of the SIR Model as an example}
 \begin{itemize}
-\item{areas covered are defined with different geographies}
-\item{e.g. postcode districts and sectors}
-\item{ultimately we are only interested in the overall boundary of a GP}
+\item{this is very relevant to the field of public health}
+\item{includes mathematics: this is where \LaTeX ~ can demonstrate its full glory}
+\item{Only a basic introduction}
 \end{itemize}
-\item{How do we merge geographies at different levels?}
-$\Longrightarrow \textrm{\texttt{GeoPandas} in \Python}$
-\item{You can find the \IPython Notebook \href{https://github.com/Gerald-Leung/GP_Boundaries/blob/main/Geographies\%20.ipynb}{here} on GitHub}
+\item{We will also include comparisons with Microsoft Office}
+\item{This is not a full tutorial on using \LaTeX}
 \end{itemize}
 \end{frame}
 
-\section{\texttt{GeoPandas}}
-\begin{frame}{\texttt{GeoPandas}}
+\begin{frame}{What is \LaTeX?}
+\begin{figure}
+\begin{center}
+\includegraphics[scale=0.06]{latex-logo}
+\end{center}
+\end{figure}
 \begin{itemize}
-\item{An open source project for geospatial data analysis in \Python~\citep{kelsey_jordahl_2020_3946761}}
-\item{Extends from \texttt{Pandas}~\citep{pandas},
-a data analysis package}
-\item{Can be used to read and create shape files}
+\item{Pronounced as `lay-tech'}
+\item{A free software for document preparation}
+\item{Released almost 40 years ago in 1984}
+\item{Built on top of \TeX ~(initial release in 1978)}
+\item{Used for typesetting documents, particularly with technical content}
+\item{Widely used in academia and other communities for the production of highly professional documents} 
 \end{itemize}
-%\begin{figure}
-%\begin{center}
-%\includegraphics[scale=0.55]{total}
-%\caption{All admission statistics for patients aged 65 or above. An increasing trend could be observed.}
-%\end{center}
-%\end{figure}
+\end{frame}
+
+\begin{frame}{What is the SIR Model?}
+\begin{itemize}
+\item{S: susceptible; I: infectious; R: recovered (sometimes called removed)}
+\item{Proposed by Kermack and McKendrick in 1927~\citep{1927RSPSA.115..700K}}
+\item{A compartmental model}
+\item{Population assigned to different `compartments': SIR}
+\item{Model infectious diseases mathematically}
+\end{itemize}
+\end{frame}
+
+\section{First Detour}
+\begin{frame}{A Quick Detour}
+Before we go any further, we have already demonstrated
+a few capabilities of \LaTeX! 
+\linebreak
+
+Let's have a look in detail...
+\end{frame}
+
+\begin{frame}[fragile]{The Beamer Class}
+This presentation is typeset using the Beamer
+class in \LaTeX. Hopefully it is evident by now,
+it is a powerful class to make good-looking presentations.
+You can specify in the beginning of the document by
+\begin{lstlisting}[language=TeX,frame=single]
+\documentclass{beamer}
+\end{lstlisting}
+
+There are many more classes within \LaTeX that you can use
+for various purposes. The default class is the Article
+class for making general documents. There are
+also classes for books and letters, for example.
+\end{frame}
+
+\begin{frame}[fragile]{Title Page}
+With \LaTeX, minimum effort is required to
+format the title page as you do not have to worry much about formatting.
+As a simple example:
+\begin{lstlisting}[language=TeX,frame=single]
+\documentclass{beamer}
+\title{An Elegant Presentation}
+\author{John Smith}
+\institute{University of Glasgow}
+\date{\today}
+\end{lstlisting}
+You can then use the command \verb!\titlepage!
+in the next frame to make it your title page,
+without having to worry much about formatting unless you have
+more specific requirements.
 \end{frame}
 
 \section{Data}
@@ -427,6 +480,7 @@ We plot the final results again as a sanity check:
 \end{figure}
 \end{frame}
 
+\iffalse
 \begin{frame}{Mapping on \texttt{ArcGIS}}
 \begin{figure}
 \begin{center}
@@ -436,7 +490,7 @@ represent all geography levels (sectors and districts). Red lines represent the 
 \end{center}
 \end{figure}
 \end{frame}
-
+\fi
 \section{Conclusion}
 \begin{frame}{Summary}
 \begin{itemize}
